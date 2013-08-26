@@ -1,6 +1,6 @@
 curve 
 ball 
-well 
+welled 
 received 
 {misfit} 
 whatever
